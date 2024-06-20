@@ -1,1 +1,1 @@
-백인수, 이우천, 진가현
+# IoT-Capstone-Administrator-Web
